@@ -1,0 +1,11 @@
+{
+  "name": "rawsql",
+  "version": "1.0.0",
+  "description": "creating basic template for express mysql ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uf-code",
+  "license": "MIT"
+}
